@@ -1,0 +1,17 @@
+{
+   "repository":{
+      "Source":"Source",
+      "cowloversecret":"cowloversecret, "      website":"website",
+      "created by cowloversecret:"no jb required repository:",
+      "icon":"http://s33.postimg.org/yt2ee3oxr/sourceicon.png",
+      "packages":[
+         {
+            "id":"com.githubusercontent.airshou",
+            "name":"AirShou",
+            "version":"25",
+            "author":"Shou.tv",
+            "description":"An iOS 9 Screen Recorder made by Shou.tv, Allows you to record and broadcast live.",
+            "info":"info",
+            "link":"itms-services://?action=download-manifest&url=plisturldownload",
+            "icon":"https:\/\/40.media.tumblr.com\/c0033bebc8213f731f343f15e595335b\/tumblr_nzwj2eXPY01t0wlalo1_400.png"
+         },
